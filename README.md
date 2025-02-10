@@ -1,7 +1,11 @@
 # HomeMirror
 Android application powering the mirror in my house
 
-<img src="https://github.com/HannahMitt/HomeMirror/blob/master/design/IMG_20150825_191621.jpg" width="400"/>
+<img src="https://raw.githubusercontent.com/HannahMitt/HomeMirror/master/design/IMG_20151121_183522%20(1).jpg" width="400"/>
+
+### Note: code unmaintained
+This was a fun project, and I may pick it back up again one day.
+You can still follow the instructions for putting a mirror together, but may need to bring your own light-text-on-dark-background app.
 
 Software
 ====
@@ -30,6 +34,8 @@ When its mirror time, I also recommend turning on the device Developer Option: "
 
 Making a Mirror
 ====
+
+[Video walk-through on adafruit (Thank you Becky!)](https://learn.adafruit.com/android-smart-home-mirror)
 
 1. Obtain Android device
 ----
